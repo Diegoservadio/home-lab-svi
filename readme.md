@@ -17,7 +17,7 @@ su uno switch Layer 3, eliminando la necessita di un router esterno.
 - 1 Switch Layer 2 Ufficio (SW-Ufficio) - VLAN 10
 - 1 Switch Layer 2 Server (SW-Server) - VLAN 20
 - 4 PC (2 per VLAN)
-(topologia)[topologia.png]
+![topologia](topologia.png)
 
 ## Schema IP
 
